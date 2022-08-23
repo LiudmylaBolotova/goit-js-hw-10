@@ -18,3 +18,8 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+input:focus {
+  outline: none;
+  border: 3px solid blue;
+}
