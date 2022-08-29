@@ -23,3 +23,10 @@ input:focus {
   outline: none;
   border: 3px solid blue;
 }
+
+.wrap {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
